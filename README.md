@@ -63,6 +63,9 @@ To ensure we had the data ready for analysis and visualizations, we used these m
 ### Analysis and Results
 ![Impact of Movie Budget on Profits](images/lyster.png)
 The more the production budget of a movie, the higher the profit it makes up to a certain point where a budget increase does not translate to more profit. Other factors now step in to increase profit as shown below
+@@
+visualization showing  how well the model predicts the profits from
+production budgets.
 
 ![Impact of Movie Runtime on Ratings](images/denzel.png)
 The longer the movie, the higher the ratings

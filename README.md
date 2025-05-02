@@ -1,10 +1,10 @@
 # Movie Studio Launch Blueprint
 
-**Authors:** [David Mburu](www.linkedin.com/in/david-g-mburu-b1268a1b7)
-             [Julia Maina](https://www.linkedin.com/in/julie-maina-59b866295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-             [Olin Wachira](https://www.linkedin.com/in/olin-muriu-wachira-235323340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-             [Lyster Kwamboka](https://www.linkedin.com/in/moogi-lyster-755303245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-             [Denzel Tero](mailto:denzelamazon3@gmail.com)
+**Authors:** [David Mburu](www.linkedin.com/in/david-g-mburu-b1268a1b7),
+             [Julia Maina](https://www.linkedin.com/in/julie-maina-59b866295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app),
+             [Olin Wachira](https://www.linkedin.com/in/olin-muriu-wachira-235323340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app),
+             [Lyster Kwamboka](https://www.linkedin.com/in/moogi-lyster-755303245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app),
+             [Denzel Tero](https://linkedin.com/in/denzel-william-485864323)
 
 
 ## Overview
@@ -34,7 +34,7 @@ Grouping movie types into two categories short and long then analyzing their res
 
 3. Identify the Best Directors to Work With
 
-By checking the experience level and ratings each director gets, we can determine the most suitable directors for the studio
+By using the number of movies directed as a measure of experience and using the average ratings of their movies as a proxy for the actual, director rating, we can determine the most suitable directors for the studio
 
 4. To identify the genres that are linked to high average rating
 
@@ -61,17 +61,26 @@ To ensure we had the data ready for analysis and visualizations, we used these m
 - **Data Merging Accuracy:** Ensured correct alignment when joining IMDb tables using movie_id and person_id to avoid mismatches.
 
 ### Analysis and Results
-![Impact of Movie Budget on Profits](images/lyster.png)
-The more the production budget of a movie, the higher the profit it makes up to a certain point where a budget increase does not translate to more profit. Other factors now step in to increase profit as shown below
-@@
-visualization showing  how well the model predicts the profits from
+
+![Regression Model](images/regression_model.png)
+
+This visualization shows  how well the model predicts the profits from
 production budgets.
 
+
+![Impact of Movie Budget on Profits](images/lyster.png)
+
+The more the production budget of a movie, the higher the profit it makes up to a certain point where a budget increase does not translate to more profit. Other factors now step in to increase profit as shown below
+
+
 ![Impact of Movie Runtime on Ratings](images/denzel.png)
+
 The longer the movie, the higher the ratings
+
 
 ![Impact of Movie Director on Ratings](images/devi.png)
 Experienced director ratings. One can pick any among these and they would be suitable for making a movie
+
 
 ![Impact of Movie Genre on Ratings](images/olin.png)
 Highest rated genres
@@ -97,15 +106,22 @@ From these conclusions, we would recommend to the head of the new movie studio t
 For further clarity or other inquiries, do not hesitate to reach out to us:
 
 **David Mburu:** [LinkedIn](www.linkedin.com/in/david-g-mburu-b1268a1b7)
+
                  [Email](mailto:daveygmbur@gmail.com)
 
 **Julia Maina:** [LinkedIn](https://www.linkedin.com/in/julie-maina-59b866295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
                  [Email](mailto:juliemaina97@gmail.com)
 
 **Olin Wachira:** [LinkedIn](https://www.linkedin.com/in/olin-muriu-wachira-235323340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+
                  [Email](mailto:Muriuolinn@gmail.com)
 
 **Lyster Moogi:** [LinkedIn](https://www.linkedin.com/in/moogi-lyster-755303245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
                   [Email](mailto:kwambokalyster20@gmail.com)
 
-**Denzel Tero:** [Email](mailto:denzelamazon3@gmail.com)
+**Denzel Tero:** [LinkedIn](https://linkedin.com/in/denzel-william-485864323)
+
+                 [Email](mailto:denzelamazon3@gmail.com)
+

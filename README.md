@@ -64,7 +64,7 @@ To ensure we had the data ready for analysis and visualizations, we used these m
 
 ![Regression Model](images/regression_model.png)
 
-This visualization shows  how well the model predicts the profits from
+This visualization above shows how well the model predicts the profits from
 production budgets.
 
 
@@ -78,21 +78,23 @@ The more the production budget of a movie, the higher the profit it makes up to 
 The longer the movie, the higher the ratings
 
 
+
 ![Impact of Movie Director on Ratings](images/devi.png)
-Experienced director ratings. One can pick any among these and they would be suitable for making a movie
+
+Experienced director ratings. One can pick any director among these and they would be among the best for directing a movie
 
 
 ![Impact of Movie Genre on Ratings](images/olin.png)
 Highest rated genres
 
 
-## Conclusion
+## Conclusions
 
 From the findings from the visualizations above, we can conclude that:
 
 - Increasing production budget of a movie increases its profits
 - Long films tend to have higher ratings than shorter ones
-- The most experienced directors tend to have lower average ratings than inexperienced ones due to the number of movies involved. Hence it is not enough to look at ratings only
+- The best directors are a combination of experience and average ratings
 - Certain genres tend to receive better ratings than others
 
 From these conclusions, we would recommend to the head of the new movie studio to:
@@ -106,22 +108,17 @@ From these conclusions, we would recommend to the head of the new movie studio t
 For further clarity or other inquiries, do not hesitate to reach out to us:
 
 **David Mburu:** [LinkedIn](www.linkedin.com/in/david-g-mburu-b1268a1b7)
-
                  [Email](mailto:daveygmbur@gmail.com)
 
 **Julia Maina:** [LinkedIn](https://www.linkedin.com/in/julie-maina-59b866295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
                  [Email](mailto:juliemaina97@gmail.com)
 
 **Olin Wachira:** [LinkedIn](https://www.linkedin.com/in/olin-muriu-wachira-235323340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-
                  [Email](mailto:Muriuolinn@gmail.com)
 
 **Lyster Moogi:** [LinkedIn](https://www.linkedin.com/in/moogi-lyster-755303245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
                   [Email](mailto:kwambokalyster20@gmail.com)
 
 **Denzel Tero:** [LinkedIn](https://linkedin.com/in/denzel-william-485864323)
-
                  [Email](mailto:denzelamazon3@gmail.com)
 
